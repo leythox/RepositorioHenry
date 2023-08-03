@@ -1,1 +1,1 @@
-Este es un proyecto de como clearlo y clonarlo a mi escritorio
+Este es un proyecto de como crearlo y clonarlo a mi escritorio
